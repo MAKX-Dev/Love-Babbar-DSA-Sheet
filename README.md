@@ -33,7 +33,7 @@ This repo is a part of my journey.
 
 | Category              | Total Qs | Solved | Status    |
 |-----------------------|----------|--------|-----------|
-| Loops                 | 36       | ✅ 4    | In Progress |
+| Intro to C++ &Loops   | 36       | ✅ 9    | In Progress |
 | Strings               | 43       | ✅ xx   | Planned     |
 | Linked List           | 36       | ✅ xx   | Planned     |
 | Stack & Queue         | 38       | ✅ xx   | Planned     |
