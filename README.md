@@ -33,7 +33,8 @@ This repo is a part of my journey.
 
 | Category              | Total Qs | Solved | Status    |
 |-----------------------|----------|--------|-----------|
-| Intro to C++ &Loops   | 36       | ✅ 10    | In Progress |
+| Intro to C++ & Loops   | 36       | ✅ 12    | In Progress |
+| Arrays                | 20       | ✅ xx   | Planned     |
 | Strings               | 43       | ✅ xx   | Planned     |
 | Linked List           | 36       | ✅ xx   | Planned     |
 | Stack & Queue         | 38       | ✅ xx   | Planned     |
@@ -58,7 +59,7 @@ This repo is a part of my journey.
 ## 🌱 Connect With Me
 
 - GitHub: [MAKX-Dev](https://github.com/MAKX-Dev)
-- LinkedIn: *(Add when ready)*
+- LinkedIn: *(will add when ready)*
 - Portfolio: *(Coming soon)*
 
 ---
