@@ -34,7 +34,7 @@ This repo is a part of my journey.
 | Category              | Total Qs | Solved | Status    |
 |-----------------------|----------|--------|-----------|
 | Intro to C++ & Loops   | 36       | ✅ 12    | In Progress |
-| Arrays                | 20       | ✅ xx   | Planned     |
+| Arrays                | 20       | ✅ 1   | In Progress     |
 | Strings               | 43       | ✅ xx   | Planned     |
 | Linked List           | 36       | ✅ xx   | Planned     |
 | Stack & Queue         | 38       | ✅ xx   | Planned     |
