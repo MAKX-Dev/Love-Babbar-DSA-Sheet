@@ -7,7 +7,7 @@ I'm solving these to build a strong foundation in Data Structures and Algorithms
 
 ## 📌 About Me
 
-👋 Hi! I'm **Manthan Khotele** (aka **MAKX Dev**), a CSE undergrad at YCCE, Nagpur.  
+ Hi! I'm **Manthan Khotele** (aka **MAKX Dev**), a IT undergrad at GHRIIT, Nagpur.  
 My goal is to crack **off-campus SDE roles (40+ LPA)** by building strong DSA, system design, and project skills.  
 This repo is a part of my journey.
 
@@ -33,7 +33,7 @@ This repo is a part of my journey.
 
 | Category              | Total Qs | Solved | Status    |
 |-----------------------|----------|--------|-----------|
-| Intro to C++ & Loops   | 36       | ✅ 12    | In Progress |
+| Intro to C++ & it's fundamentals  | 25       | ✅ 12    | In Progress |
 | Arrays                | 20       | ✅ 1   | In Progress     |
 | Strings               | 43       | ✅ xx   | Planned     |
 | Linked List           | 36       | ✅ xx   | Planned     |
@@ -59,10 +59,10 @@ This repo is a part of my journey.
 ## 🌱 Connect With Me
 
 - GitHub: [MAKX-Dev](https://github.com/MAKX-Dev)
-- LinkedIn: *(will add when ready)*
+- LinkedIn: *https://www.linkedin.com/in/manthan-khotele-441671371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*
 - Portfolio: *(Coming soon)*
 
 ---
 
-> “Consistency over intensity. Brick by brick, I’m building something big.” 🚀
+> “Consistency over intensity. Brick by brick, I’m building something big.” 📈
 
