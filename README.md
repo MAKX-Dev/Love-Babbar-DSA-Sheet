@@ -1,6 +1,9 @@
 # 💻 Love Babbar DSA Sheet Progress Tracker
 
-Welcome to my personal DSA practice repository based on the **450 DSA Questions by Love Babbar**.  
+📌 Current DSA Plan
+I’m using Love Babbar’s DSA course as a foundation (first 25 lectures).  
+After that, I’ll move to Striver’s DSA Sheet for structured problem-solving practice.  
+This way I cover both theory + hands-on problem solving systematically.  
 I'm solving these to build a strong foundation in Data Structures and Algorithms using **C++**.
 
 ---
@@ -8,20 +11,20 @@ I'm solving these to build a strong foundation in Data Structures and Algorithms
 ## 📌 About Me
 
  Hi! I'm **Manthan Khotele** (aka **MAKX Dev**), a IT undergrad at GHRIIT, Nagpur.  
-My goal is to crack **off-campus SDE roles (40+ LPA)** by building strong DSA, system design, and project skills.  
+My goal is to crack **off-campus SDE roles** by building strong DSA, system design, and project skills.  
 This repo is a part of my journey.
 
 ---
 
 ## ✅ Goals with This Sheet
 
-- Strengthen core DSA concepts (Arrays, Strings, Trees, Graphs, etc.)
+- Strengthen core DSA concepts (Arrays, Strings,Graphs, etc.)
 - Improve problem-solving speed and accuracy
 - Build a strong foundation for off-campus interviews
 
 ---
 
-## 🛠️ Languages & Tools Used
+##  Languages & Tools Used
 
 - C++
 - VS Code
@@ -34,7 +37,7 @@ This repo is a part of my journey.
 | Category              | Total Qs | Solved | Status    |
 |-----------------------|----------|--------|-----------|
 | Intro to C++ & it's fundamentals  | 25       | ✅ 12    | In Progress |
-| Arrays                | 20       | ✅ 2   | In Progress     |
+| Arrays                | 20       | ✅ 4   | In Progress     |
 | Strings               | 43       | ✅ xx   | Planned     |
 | Linked List           | 36       | ✅ xx   | Planned     |
 | Stack & Queue         | 38       | ✅ xx   | Planned     |
