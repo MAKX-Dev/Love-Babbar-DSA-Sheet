@@ -1,0 +1,9 @@
+   {"emeraldwalk.runonsave": {
+    "commands": [
+        {
+            "match": "\\.cpp$",
+            "cmd": "g++ ${file} -o ${fileDirname}/${fileBasenameNoExtension}.exe && ${fileDirname}/${fileBasenameNoExtension}.exe"
+        }
+    ]
+}
+   }

@@ -1,6 +1,7 @@
 # 💻 Love Babbar DSA Sheet Progress Tracker
 
-📌 Current DSA Plan
+##📌 Current DSA Plan
+
 I’m using Love Babbar’s DSA course as a foundation (first 25 lectures).  
 After that, I’ll move to Striver’s DSA Sheet for structured problem-solving practice.  
 This way I cover both theory + hands-on problem solving systematically.  
@@ -37,7 +38,7 @@ This repo is a part of my journey.
 | Category              | Total Qs | Solved | Status    |
 |-----------------------|----------|--------|-----------|
 | Intro to C++ & it's fundamentals  | 25       | ✅ 12    | In Progress |
-| Arrays                | 20       | ✅ 6   | In Progress     |
+| Arrays                | 20       | ✅ 6  | In Progress     |
 | Strings               | 43       | ✅ xx   | Planned     |
 | Linked List           | 36       | ✅ xx   | Planned     |
 | Stack & Queue         | 38       | ✅ xx   | Planned     |
