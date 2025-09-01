@@ -10,6 +10,12 @@ int main(){
     cout<<"First Element:  "<<a.front()<<endl;
     cout<<"Last Element:  "<<a.back()<<endl;
     a.pop_back();
+    cout<<a.front()<<endl;
+    a.clear();
+    vector<int>y(1,4);
+    for(int i:y){
+        cout<<i<<endl;
+    }
     
 
 
